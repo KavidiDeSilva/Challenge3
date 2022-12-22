@@ -96,6 +96,7 @@ public static int[] arr = { 47, 84, 75, 21, 14, 14, 79 };
         System.out.println(findMode());
 
         //prime numbers
+         System.out.print("Prime Number ");
         System.out.println(checkPrimeNumbers(arr));
         
 

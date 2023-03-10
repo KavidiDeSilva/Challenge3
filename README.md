@@ -1,4 +1,6 @@
-# Challenge3 - ArrayProcessor.java
+# ArrayProcessor.java
+
+Challenge3
 
 This GitHub repository contains a Java program that implements five different algorithms:
 
